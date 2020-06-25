@@ -9,21 +9,21 @@ h1 {
     padding-left: 45%;
     padding-bottom: 5px;
     border-bottom: 1px solid #ffffff;
-    font-size: 2.5em;
+    font-size: 3em;
 }
 
 .heading {
-    font-size: 2em;
+    font-size: 2.25em;
     font-weight: bold;
 }
 
 .bullet{
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
 .bullet-subset {
     font-style: italic;
-    font-size: 0.7em;
+    font-size: 1em;
 }
 
 #python-jpg {
