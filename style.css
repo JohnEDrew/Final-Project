@@ -5,6 +5,10 @@ body {
     padding: 50px;
 }
 
+h1 {
+    padding-left: 50%;
+}
+
 .heading {
     font-size: 2em;
     font-weight: bold;
