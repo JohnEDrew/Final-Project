@@ -27,6 +27,6 @@ h1 {
 }
 
 #python-jpg {
-    position: relative; right: auto;
+    position: static; right: auto;
 }
 
