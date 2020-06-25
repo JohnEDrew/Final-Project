@@ -5,6 +5,17 @@ body {
     padding: 50px;
 }
 
+.heading {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.bullet{
+    font-size: 1.5em;
+}
+
 .bullet-subset {
     font-style: italic;
+    font-size: 1em;
+    font-weight: lighter;
 }
